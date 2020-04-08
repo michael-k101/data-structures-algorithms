@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms
+# Project Noodle Raptor
 My personal project for practicing data structures and algorithms.
 
 ## Python
