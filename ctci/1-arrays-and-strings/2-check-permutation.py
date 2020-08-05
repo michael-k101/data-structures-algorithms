@@ -32,6 +32,8 @@ class Test(unittest.TestCase):
   def test3(self):
     self.assertEqual(is_permutation("vaaaa", "vaaaaaa"), False)
 
+  def test4(self):
+    self.assertEqual(is_permutation("aa b","ba a"), True)
     
 if __name__ == '__main__':
   print(is_permutation("avaa", "vaaa"))
