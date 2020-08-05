@@ -36,5 +36,4 @@ class Test(unittest.TestCase):
     self.assertEqual(is_permutation("aa b","ba a"), True)
     
 if __name__ == '__main__':
-  print(is_permutation("avaa", "vaaa"))
-  # unittest.main()
+  unittest.main()
